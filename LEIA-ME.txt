@@ -1,0 +1,9 @@
+DEMONSTRAÇÃO COM DADOS FICTÍCIOS.
+
+1. Extraia a pasta.
+2. No terminal dentro dela: py -m pip install -r requirements.txt
+3. Execute: py -m streamlit run app2.py
+4. No GitHub, envie somente esta pasta de demonstração, nunca suas bases reais ou secrets.toml.
+5. A logo original não foi incluída. O cabeçalho deve funcionar sem o arquivo de logo.
+6. Para publicar, escolha app2.py como arquivo principal no Streamlit Community Cloud.
+7. Revise as regras de comissões no código antes de compartilhá-lo, mesmo com dados fictícios.
